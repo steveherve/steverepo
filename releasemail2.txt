@@ -1,0 +1,10 @@
+Bonjour a tous,
+
+das Release 2.42.1 ist fertig gebaut und wurde erfolgreich getestet(Vorbehaltlich den erfolgreichen PerformanceTests):
+
+https://jira.e-dict.net/projects/EOC/versions/13581
+https://jira.e-dict.net/projects/EOC/versions/13685
+
+Gruß
+
+die Buddies
